@@ -1,17 +1,13 @@
 {
   "name": "Utopia",
   "version": "1.0.0",
-  "description": "Epic proxy",
+  "description": "Epic website",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/EpicProgrammingPerson/Utopia-Beta.git"
   },
   "keywords": [],
   "author": "",
